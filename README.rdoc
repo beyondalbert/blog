@@ -1,28 +1,11 @@
-== README
+== 个人博客程序
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+没有找到自己满意的个人博客程序，因此，自己造一个，包含以下功能：
 
-Things you may want to cover:
+* Markdown 编辑并实时预览
 
-* Ruby version
+* 有道云笔记作为其博客备份，并可以从有道云笔记恢复
 
-* System dependencies
+* hexo-theme-next 主题风格，个人还是蛮喜欢这个风格的UI
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+最后，以上三点都还没有实现~正在实现中
